@@ -1,0 +1,53 @@
+.lines {
+  display: flex;
+  justify-content: center;
+  height: 360px;
+}
+
+.columns {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: 50px 0px 0px 0px;
+  background-color: white;
+  padding: 30px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.firstName {
+  width: 200px;
+  height: 30px;
+  margin: 0px 0px 40px 0px;
+}
+
+.lastName {
+  width: 200px;
+  height: 30px;
+  margin: 0px 0px 40px 0px;;
+}
+
+.email {
+  width: 200px;
+  height: 30px;
+  margin: 0px 0px 40px 0px;
+}
+
+html {
+  background-color: green;
+}
+
+.App {
+  background-color: green;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  color: green;
+}
+
+
